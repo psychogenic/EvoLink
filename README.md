@@ -2,6 +2,9 @@ EvoLink
 =======
 
 Cross-platform EVO-All data bypass library.
+Copyright (C) 2014 Pat Deegan. All Rights Reserved.
+
+http://flyingcarsandstuff.com/project/EvoLink/
 
 If you want to interact and control real-life cars and trucks, there's no easier way that with the Fortin EVO-All bypass--and the simplest way to use that, is with the EvoLink library.
 
